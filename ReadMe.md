@@ -51,10 +51,10 @@ This project presents an interactive dashboard built in **Tableau** to explore a
 
 ## 👨‍💻 Author
 
-**Aditya Pathania**  
-B.Tech CSE | Data Analyst | Tableau & Python Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/in/aditya-pathania-ba32b5261/)  
-📁 [Portfolio](https://www.datascienceportfol.io/Aditya_Pathania)
+**Nandini Nehra**  
+B.E ECE | Data Analyst Enthusiast  
+🔗 [LinkedIn]([https://www.linkedin.com/in/aditya-pathania-ba32b5261/](https://www.linkedin.com/in/nandini-nehra-635b45257/))  
+📁 [Portfolio](https://datascienceportfol.io/Nandini_Nehra)
 
 ---
 
